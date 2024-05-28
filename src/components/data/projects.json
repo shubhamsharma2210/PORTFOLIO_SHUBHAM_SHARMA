@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Homestead Heaven Reality",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description" : "Homestead Heaven: A MERN-based website offering daily room rates for a serene and comfortable stay.",
+    "demo": "https://github.com/shubhamsharma2210/Homestead-Heaven-Reality",
+    "source": "https://github.com/shubhamsharma2210/Homestead-Heaven-Reality"
+  },
+  {
+    "key": 2,
+    "title": "Social-Media Platform ",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": " A MERN-based social media platform for seamless interaction and community building online.",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Garments Shop website",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": " A React-based website showcasing trendy garments with a seamless shopping experience",
+    "demo": "https://www.github.com/shubhamsharma2210/",
+    "source": "https://www.github.com/shubhamsharma2210/"
+  }
+ 
+]
